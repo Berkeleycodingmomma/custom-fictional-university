@@ -56,9 +56,11 @@ Work with modern WordPress tools like Gutenberg and the WP REST API.
 Repository Link
 GitHub Repository
 
-Contact
+## Contact
 Feel free to reach out for collaboration or inquiries:
 
-Email: [Your Email Address]
-Portfolio: [Your Portfolio URL]
+- Email: [fsengineeramanda@gmail.com]
+- Portfolio: [https://www.amanda-gray-ucberkeley.com/]
+- Follow me on Github at [AmandaGray](https://github.com/Berkeleycodingmomma)!
+
    
